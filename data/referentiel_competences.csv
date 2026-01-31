@@ -1,0 +1,128 @@
+metier,bloc,competence
+Data Analyst,Analyse de données,Analyse exploratoire (EDA)
+Data Analyst,Analyse de données,Nettoyage et préparation de données
+Data Analyst,Analyse de données,Manipulation de données avec SQL
+Data Analyst,Analyse de données,Interprétation de statistiques descriptives
+Data Analyst,Analyse de données,Création de tableaux de bord simples
+Data Analyst,Outils & Programmation,Analyse de données avec Python (pandas)
+Data Analyst,Outils & Programmation,Utilisation d’Excel avancé
+Data Analyst,Outils & Programmation,Visualisation avec Power BI / Tableau
+Data Analyst,Outils & Programmation,Utilisation de Jupyter Notebook
+Data Analyst,Outils & Programmation,Gestion de fichiers CSV / Excel
+Data Analyst,Business & Communication,Compréhension des besoins métier
+Data Analyst,Business & Communication,Rédaction de comptes-rendus d’analyse
+Data Analyst,Business & Communication,Présentation de résultats
+Data Analyst,Business & Communication,Formulation de recommandations data
+Data Analyst,Business & Communication,Travail en équipe
+
+Data Scientist,Modélisation ML,Régression linéaire
+Data Scientist,Modélisation ML,Arbres de décision
+Data Scientist,Modélisation ML,Évaluation de modèles
+Data Scientist,Modélisation ML,Validation croisée
+Data Scientist,Modélisation ML,Overfitting
+Data Scientist,Programmation & Data,Scikit-learn
+Data Scientist,Programmation & Data,Pandas avancé
+Data Scientist,Programmation & Data,Feature engineering
+Data Scientist,Programmation & Data,Notebooks ML
+Data Scientist,Programmation & Data,Préparation de datasets
+Data Scientist,Communication ML,Explication des modèles
+Data Scientist,Communication ML,Rapports d’analyse
+Data Scientist,Communication ML,Data storytelling
+Data Scientist,Communication ML,Collaboration métier
+Data Scientist,Communication ML,Documentation
+
+Data Engineer,Ingestion & Transformation,Pipelines ETL
+Data Engineer,Ingestion & Transformation,Transformation de données
+Data Engineer,Ingestion & Transformation,Flux batch
+Data Engineer,Ingestion & Transformation,Orchestration des jobs
+Data Engineer,Ingestion & Transformation,Logs & erreurs
+Data Engineer,Bases de données,SQL avancé
+Data Engineer,Bases de données,Data warehouse
+Data Engineer,Bases de données,Bases NoSQL
+Data Engineer,Bases de données,Big Data
+Data Engineer,Bases de données,Modélisation relationnelle
+Data Engineer,Industrialisation,Mise en production
+Data Engineer,Industrialisation,Qualité des données
+Data Engineer,Industrialisation,Optimisation requêtes
+Data Engineer,Industrialisation,Documentation
+Data Engineer,Industrialisation,Collaboration Data Scientists
+
+Machine Learning Engineer,Déploiement,API de modèles
+Machine Learning Engineer,Déploiement,Sérialisation des modèles
+Machine Learning Engineer,Déploiement,Docker
+Machine Learning Engineer,Déploiement,Environnements virtuels
+Machine Learning Engineer,Déploiement,Intégration applicative
+Machine Learning Engineer,Monitoring,Suivi performances
+Machine Learning Engineer,Monitoring,Data drift
+Machine Learning Engineer,Monitoring,Optimisation inference
+Machine Learning Engineer,Monitoring,Logs prédictions
+Machine Learning Engineer,Monitoring,Mise à jour modèles
+Machine Learning Engineer,Dev & Collaboration,Git
+Machine Learning Engineer,Dev & Collaboration,Clean code
+Machine Learning Engineer,Dev & Collaboration,Revue de code
+Machine Learning Engineer,Dev & Collaboration,Documentation
+Machine Learning Engineer,Dev & Collaboration,Collaboration équipes
+
+BI Analyst,Modélisation BI,Besoins reporting
+BI Analyst,Modélisation BI,Schéma en étoile
+BI Analyst,Modélisation BI,KPI
+BI Analyst,Modélisation BI,Cubes de données
+BI Analyst,Modélisation BI,Dimensions & faits
+BI Analyst,Outils BI,Dashboards
+BI Analyst,Outils BI,Power BI
+BI Analyst,Outils BI,Connexion sources
+BI Analyst,Outils BI,Drill-down
+BI Analyst,Outils BI,Optimisation rapports
+BI Analyst,Relation métier,Recueil besoins
+BI Analyst,Relation métier,Spécifications BI
+BI Analyst,Relation métier,Formation utilisateurs
+BI Analyst,Relation métier,Suivi satisfaction
+BI Analyst,Relation métier,Amélioration continue
+
+NLP Engineer,Prétraitement texte,Nettoyage de texte
+NLP Engineer,Prétraitement texte,Tokenisation
+NLP Engineer,Prétraitement texte,Lemmatisation
+NLP Engineer,Prétraitement texte,Stopwords
+NLP Engineer,Prétraitement texte,Normalisation
+NLP Engineer,IA Générative,Embeddings SBERT
+NLP Engineer,IA Générative,Prompt engineering
+NLP Engineer,IA Générative,Utilisation API LLM
+NLP Engineer,IA Générative,Chaînage de prompts
+NLP Engineer,IA Générative,Contrôle qualité réponses
+NLP Engineer,Intégration NLP,Chatbots
+NLP Engineer,Intégration NLP,Moteur sémantique
+NLP Engineer,Intégration NLP,Évaluation résultats
+NLP Engineer,Intégration NLP,Documentation limites
+NLP Engineer,Intégration NLP,Collaboration métier
+
+MLOps Engineer,CI/CD ML,Pipelines CI/CD
+MLOps Engineer,CI/CD ML,Automatisation entraînements
+MLOps Engineer,CI/CD ML,Versioning modèles
+MLOps Engineer,CI/CD ML,Tests ML
+MLOps Engineer,CI/CD ML,Déploiement continu
+MLOps Engineer,Infrastructure,Docker avancé
+MLOps Engineer,Infrastructure,Kubernetes
+MLOps Engineer,Infrastructure,CPU/GPU
+MLOps Engineer,Infrastructure,Monitoring services
+MLOps Engineer,Infrastructure,Sécurité services
+MLOps Engineer,Gouvernance ML,MLflow
+MLOps Engineer,Gouvernance ML,Suivi métriques
+MLOps Engineer,Gouvernance ML,Traçabilité expériences
+MLOps Engineer,Gouvernance ML,Bonnes pratiques MLOps
+MLOps Engineer,Gouvernance ML,Collaboration équipes
+
+Product Owner Data,Vision produit,Vision data
+Product Owner Data,Vision produit,Stratégie IA
+Product Owner Data,Vision produit,Roadmap produit
+Product Owner Data,Vision produit,Alignement stratégique
+Product Owner Data,Vision produit,Ateliers cadrage
+Product Owner Data,Gestion produit,User stories
+Product Owner Data,Gestion produit,Backlog
+Product Owner Data,Gestion produit,Suivi livraisons
+Product Owner Data,Gestion produit,Critères d’acceptation
+Product Owner Data,Gestion produit,Arbitrage contraintes
+Product Owner Data,Communication,Présentation décideurs
+Product Owner Data,Communication,Suivi valeur métier
+Product Owner Data,Communication,Démos produit
+Product Owner Data,Communication,Feedback utilisateurs
+Product Owner Data,Communication,Coordination équipes
